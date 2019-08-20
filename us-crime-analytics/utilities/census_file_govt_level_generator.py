@@ -121,9 +121,3 @@ def merge_cen_final_main():
    Merge each of the final 90, 00 and 10 the census files with final main file to get correct govt level values
    """
 # merge_cen_final_main()
-
-
-"""
-    Consolidate all the final census files with the updated ORIs together
-"""
-consolidate_all_census_files()
